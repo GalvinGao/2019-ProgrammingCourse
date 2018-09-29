@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+.idea
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+**/.idea/vcs.xml
