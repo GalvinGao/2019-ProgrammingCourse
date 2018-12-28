@@ -64,3 +64,6 @@ typings/
 **/.idea/workspace.xml
 **/.idea/tasks.xml
 **/.idea/vcs.xml
+
+misc/nosync_news_picture_mttry/*
+scrapy_proj/*
